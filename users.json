@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6447e6ed27ab51190c3b8d95"
+  },
+  "cart": {
+    "items": [],
+    "totalPrice": 0
+  },
+  "email": "srujanakgss@gmail.com",
+  "password": "hey",
+  "__v": 20
+},{
+  "_id": {
+    "$oid": "6449649d98ec33265c5eb80e"
+  },
+  "cart": {
+    "items": [],
+    "totalPrice": 0
+  },
+  "email": "srujana16118@gmail.com",
+  "password": "hello",
+  "__v": 12
+}]

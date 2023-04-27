@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6447747ab19c785a44ac9096"
+  },
+  "title": "Black T-shirt",
+  "imageURL": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 1000,
+  "description": "Must Buy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447e95727ab51190c3b8d96"
+  },
+  "title": "blue shirt",
+  "imageURL": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+  "price": 1500,
+  "description": "bestseller",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447ea0f27ab51190c3b8d97"
+  },
+  "title": "FORMAL SHIRT",
+  "imageURL": "https://images.unsplash.com/photo-1603252109303-2751441dd157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 2000,
+  "description": "best for office",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447eb0527ab51190c3b8d98"
+  },
+  "title": "Pack of 6 tshirts",
+  "imageURL": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+  "price": 1200,
+  "description": "pack of 6 tshirts",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64497db12a7c8874841bc0b7"
+  },
+  "title": "Jacket",
+  "imageURL": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+  "price": 2500,
+  "description": "brown long sleeves",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64497e262a7c8874841bc0b8"
+  },
+  "title": "jacket",
+  "imageURL": "https://plus.unsplash.com/premium_photo-1675186049366-64a655f8f537?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 2600,
+  "description": "red jacket",
+  "__v": 0
+}]
